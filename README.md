@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rosano Dewano 👋
 
-<!--
-**rosanodewana/rosanodewana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Age:** 18 y.o  
+**Profession:** Student of Informatics Engineering  
+**Interest:** Web Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Hello! I'm Rosano Dewano, an aspiring web developer and currently a student in Informatics Engineering. I am passionate about learning new technologies and building web applications, though I'm just getting started on my journey.
+
+## 🎮 Hobbies
+
+- Playing Video Games
+
+## 🚀 Fun Fact
+
+- I am a fast learner!
+
+## 📚 Projects
+
+*Currently, I have no public projects yet as I'm still learning. Stay tuned for future updates!*
+
+## 📫 Let's Connect
+
+Feel free to connect or follow me for updates as I grow and learn in the world of web development!
